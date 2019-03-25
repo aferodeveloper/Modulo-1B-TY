@@ -1,0 +1,12 @@
+# Ignore Altium Stuff
+History/
+Project Logs for*/
+__Previews/
+ProjectOutputs/
+OutJob/
+
+**/build/
+
+GPATH
+GRTAGS
+GTAGS

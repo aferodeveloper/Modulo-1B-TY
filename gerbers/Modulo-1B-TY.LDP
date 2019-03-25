@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: Z:\wrk\Afero\Modulo1b\open_source\Modulo-1B-TY\Modulo-1B-TY.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=modulo-1b-ty-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=modulo-1b-ty-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

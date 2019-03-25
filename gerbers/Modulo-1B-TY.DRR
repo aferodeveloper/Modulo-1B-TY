@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Modulo-1B-TY.PcbDoc   3/20/19  7:37:57 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Component Side to Solder Side
+ASCII RoundHoles File : Modulo-1B-TY-RoundHoles.TXT
+ASCII SlotHoles File : Modulo-1B-TY-SlotHoles.TXT
+EIA File   : Modulo-1B-TY.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             124       PTH        13.64inch (346.39mm)
+T2      26mil (0.65mm)                                            Slot              2         PTH        0.41inch (10.52mm)
+T3      28mil (0.701mm)                                           Slot              2         PTH        0.47inch (11.92mm)
+T4      35mil (0.899mm)                                           Round             36        PTH        5.10inch (129.54mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              164
+
+Total Processing Time (hh:mm:ss) : 00:00:01

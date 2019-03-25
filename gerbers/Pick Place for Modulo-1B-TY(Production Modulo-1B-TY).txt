@@ -1,0 +1,57 @@
+Altium Designer Pick and Place Locations
+Z:\wrk\Afero\Modulo1b\open_source\Modulo-1B-TY\gerbers\Pick Place for Modulo-1B-TY(Production Modulo-1B-TY).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/03/19
+Time:       19:38
+Revision:   Not in VersionControl
+Variant:    Production Modulo-1B-TY
+Units used: mil
+
+Designator Comment          Layer    Footprint             Center-X(mil) Center-Y(mil) Rotation Description                                
+D2         Orange           TopLayer 0603LED               1134.527      175.125       360      LED_0603                                   
+C1         12pF             TopLayer 0402C-GENERIC         2047.819      229.567       180      "Capacitor, C0G"                           
+C2         4.7uF            TopLayer 0603C-GENERIC         2037.500      275.000       180      Capacitor                                  
+C3         .1uF             TopLayer 0402C-GENERIC         1243.110      -125.000      0        "Capacitor, MLCC"                          
+C4         4.7uF            TopLayer 0603C-GENERIC         902.500       175.000       0        Capacitor                                  
+C5         1uF              TopLayer 0402C-GENERIC         893.110       125.000       0        "Capacitor, MLCC"                          
+C6         .1uF             TopLayer 0402C-GENERIC         1356.890      -125.000      180      "Capacitor, MLCC"                          
+C7         1uF              TopLayer 0402C-GENERIC         757.000       -64.000       180      "Capacitor, MLCC"                          
+C8         4.7uF            TopLayer 0603C-GENERIC         302.000       152.500       90       Capacitor                                  
+C9         .1uF             TopLayer 0402C-GENERIC         518.110       -150.000      0        "Capacitor, MLCC"                          
+C10        .1uF             TopLayer 0402C-GENERIC         596.000       182.000       90       "Capacitor, MLCC"                          
+C11        47pF             TopLayer 0402C-GENERIC         339.000       -37.000       270      "Capacitor, C0G"                           
+C12        47pF             TopLayer 0402C-GENERIC         339.000       37.894        90       "Capacitor, C0G"                           
+D1         BAT54CL          TopLayer SOT23                 395.000       185.500       360      "Dual Common Cathode  Schottky  Diodes"    
+J1         HDR-1x18         TopLayer HDR-1X18              900.000       -300.000      360      ""                                         
+J2         HDR-1x18         TopLayer HDR-1X18              900.000       300.000       180      ""                                         
+MOD1       EYSHCNZWZ        TopLayer EYSHCNZWZ             2062.976      0.000         180      "Bluetooth 5.0 Low Energy Module"          
+R1         4.7k             TopLayer 0402R-GENERIC         1242.000      -225.000      180      "Resistor 4k7"                             
+R2         4.7k             TopLayer 0402R-GENERIC         1242.000      -184.000      180      "Resistor 4k7"                             
+R3         100              TopLayer 0402R-GENERIC         957.283       -125.000      0        "Resistor 100R"                            
+R11        1k               TopLayer 0402R-GENERIC         1122.000      134.000       0        "Resistor 1k"                              
+R5         10k              TopLayer 0402R-GENERIC         757.000       -30.000       180      "Resistor 10k"                             
+R7         0                TopLayer 0603R-generic         756.500       -101.000      180      "Resistor 0R"                              
+R8         100k             TopLayer 0402R-GENERIC         757.000       43.000        180      "Resistor 100k"                            
+R9         1k               TopLayer 0402R-GENERIC         756.000       -138.000      360      "Resistor 1k"                              
+R10        1k               TopLayer 0402R-GENERIC         560.000       182.283       90       "Resistor 1k"                              
+R12        27               TopLayer 0402R-GENERIC         390.000       -19.157       360      "Resistor 27R"                             
+R14        27               TopLayer 0402R-GENERIC         390.000       19.685        360      "Resistor 27R"                             
+S1         FSMSM            TopLayer FSMSM                 1131.102      0.000         180      "SMD Tact Switch"                          
+U1         ATECC508A        TopLayer SON50P300X60-8N       1100.000      -150.000      0        "Afero Custom CryptoAuthentication Device" 
+U2         S-1313A33-M5T1U3 TopLayer SOT95P275X130-5N      776.000       144.000       270      "Low Current Consumption LDO"              
+U3         FT230XQ          TopLayer VQFN65P400X400X90-16N 527.500       0.000         270      "USB to UART Bridge"                       
+USB1       10103594-0001LF  TopLayer 10103594-0001LF       125.000       0.000         180      "MICRO USB B"                              
+D3         TPD1E05U06       TopLayer SON70P100X45-2N       300.000       39.685        90       "TVS Diode"                                
+D4         TPD1E05U06       TopLayer SON70P100X45-2N       300.000       -38.843       270      "TVS Diode"                                
+C15        4.7uF            TopLayer 0603C-GENERIC         255.000       207.500       270      Capacitor                                  
+D5         TPD1E05U06       TopLayer SON70P100X45-2N       190.000       210.315       270      "TVS Diode"                                
+D6         TPD1E05U06       TopLayer SON70P100X45-2N       1711.000      3.315         90       "TVS Diode"                                
+D7         TPD1E05U06       TopLayer SON70P100X45-2N       255.000       115.315       90       "TVS Diode"                                
+R15        0                TopLayer 0402R-GENERIC         632.000       182.000       90       "Resistor 0R"                              
+Q1         2N7002           TopLayer SOT23                 1609.000      -14.500       180      "MOSFET N-CH 60V 115mA SOT23"              
+C13        12pF             TopLayer 0402C-GENERIC         1520.000      50.000        90       "Capacitor, C0G"                           
+C14        12pF             TopLayer 0402C-GENERIC         1595.000      152.000       270      "Capacitor, C0G"                           
+R13        100              TopLayer 0402R-GENERIC         1357.000      223.000       360      "Resistor 100R"                            
